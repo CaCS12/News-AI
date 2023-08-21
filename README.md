@@ -1,6 +1,6 @@
 # Voice Controlled React News Application - Alan AI Voice Assistant 🤖
 ### Voice Controlled React News Application - Alan AI Voice Assistant 🤖
-### [Live Site](https://cc-news-application.netlify.app)
+### [Live Site](https://cc-news-ai.vercel.app)
 
 - Beautiful futuristic news application using React, MaterialUI, Alan AI and NewsAPI.
 - Voice Controlled Application.
